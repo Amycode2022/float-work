@@ -1,0 +1,56 @@
+
+.ma{
+    background-color: white;
+}
+.odi{
+    margin-left: 25%;
+}
+header{
+    background-color: rgb(104, 236, 236);
+    width:40%;
+    text-align: center;
+    padding:2px;
+    margin-top:2rem;
+}
+p{
+    font-size: x-large;
+    margin-left: 180px;
+    float:right;
+}
+.odi2{
+    text-decoration: transparent;
+    border: 1px solid lightblue;
+    background-color:lightblue;
+}
+nav{
+    background-color: rgb(219, 219, 22);
+    height: 230px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 70px;
+    float:left;
+    padding: 5px;
+}
+.odi3{
+    text-align: center;
+}
+section{
+    line-height: 210px;
+    background-color:rgb(187, 14, 43);
+    text-align: center;
+    width:28%;
+    min-height:20vh;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: left;
+    padding: 20px;
+    font-size: x-large;
+}
+footer{
+    background-color: rgb(122, 230, 72);
+    clear:both;
+    width:40% ;
+    text-align: center;
+    padding: 5px;
+}
